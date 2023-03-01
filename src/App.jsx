@@ -9,7 +9,6 @@ function App() {
         <>
             <GlobalStyle />
             <Home />
-            <h1>App</h1>
         </>
     );
 }
