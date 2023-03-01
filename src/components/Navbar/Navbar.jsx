@@ -1,6 +1,6 @@
 import React from "react";
 import logo from "../../images/logo.png";
-import { Button, ImageLogo, InputSearchSpace, Nav } from "./Style";
+import { Button, ImageLogo, InputSearchSpace, Nav } from "./NavbarStyle.js";
 
 export default function Navbar() {
     return (
